@@ -39,8 +39,8 @@ Advantages:
 ```bash
 .
 ├── system_logs.txt         # Sample log file
-├── log_analysis_traditional.py   # Log analysis using basic Python logic
-├── log_analysis_aiops.py        # Log analysis using ML (IsolationForest)
+├── log_analysis.py   # Log analysis using basic Python logic
+├── aiops_log_analysis.py       # Log analysis using ML (IsolationForest)
 ├── requirements.txt        # Required Python packages
 └── README.md               # Project documentation
 ```
@@ -63,7 +63,7 @@ pip3 install -r requirements.txt
 ```
 3. Run AIOps Log Analysis:
 ```bash
-python3 log_analysis_aiops.py
+python3 aiops_log_analysis.py
 ```
 
 ## 📈 Future Enhancements
