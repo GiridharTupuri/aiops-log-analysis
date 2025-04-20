@@ -65,6 +65,13 @@ pip3 install -r requirements.txt
 ```bash
 python3 aiops_log_analysis.py
 ```
+## Logs Screenshots
+
+![python log analysis](https://github.com/user-attachments/assets/760e6e00-0037-4c0a-a67b-1ead3c224bc8)
+![aiops](https://github.com/user-attachments/assets/f1947813-146b-4838-85ea-2b158fd17359)
+
+
+
 
 ## 📈 Future Enhancements
 
